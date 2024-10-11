@@ -1,12 +1,12 @@
 {
-  "originHash" : "526b63103a7e62378bff5c91762b43a6a0fb32655d1b59b39bb90b7539784a05",
+  "originHash" : "729c0438d1144f8ea724becbf6229cb46161bea41aa3b0db36f6bc2a89bb2a8c",
   "pins" : [
     {
       "identity" : "yookassapaymentsbinary",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/sokolyasnyi/YooKassaPaymentsBinary.git",
       "state" : {
-        "revision" : "212327d122d62c03a8f2ab3075ef60bd4d9068b5"
+        "revision" : "e74aa4e4e56688e0dc621644bde58ac6a7f6a34f"
       }
     }
   ],

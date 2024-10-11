@@ -12,7 +12,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/sokolyasnyi/YooKassaPaymentsBinary.git",
-                 revision: "212327d122d62c03a8f2ab3075ef60bd4d9068b5")
+                 revision: "e74aa4e4e56688e0dc621644bde58ac6a7f6a34f")
     ],
     targets: [
         .target(
